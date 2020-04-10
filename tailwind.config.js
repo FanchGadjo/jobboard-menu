@@ -1,6 +1,6 @@
 // tailwind.config.js
 module.exports = {
   theme: {},
-  variants: {},
+  variants: ['responsive','hover','group-hover'],
   plugins: [],
 }
